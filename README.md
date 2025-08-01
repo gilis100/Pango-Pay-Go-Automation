@@ -66,6 +66,7 @@ pytest tests/
 
 - [STP - Pay&Go Parking Lot Manager](docs/STP-%20Pay&Go%20Parking%20Lot%20Manager.pdf)
 - [Bug Reports](docs/bug_reports.md)
+- [System Improvement Suggestions](docs/system_improvement_suggestions.md)
 
 ## Project Structure
 
@@ -80,6 +81,7 @@ PangoPayGo/
 │ ├── bug3_screenshot.png
 │ ├── bug_reports.md
 │ └── STP- Pay&Go Parking Lot Manager.pdf
+│ └── system_improvement_suggestions.md
 │
 ├── pages/
 │ ├── history_page.py
